@@ -1,71 +1,113 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Aryan Agrawal
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Aryan%20Agrawal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Innovate&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=650&lines=Frontend+Developer;React+Developer;Django+Developer;JavaScript+Enthusiast;Learning+Java;Passionate+About+GenAI;Always+Learning+Something+New+🚀" />
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello World! I'm Aryan Agrawal
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=💻+Full+Stack+Developer;⚛️+React+Developer;🐍+Django+Developer;☕+Learning+Java;🤖+Passionate+About+Generative+AI;🚀+Building+Awesome+Projects;✨+Always+Learning+Something+New"/>
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=aryanbindal89&label=Profile+Views&color=00E5FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/aryanbindal89?label=Followers&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/stars/aryanbindal89?label=Stars&style=for-the-badge&color=yellow"/>
+
+</p>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
 ```javascript
-const aryan = {
-    location: "India 🇮🇳",
-    education: "B.Tech Computer Science",
-    currentlyLearning: ["Java", "Data Structures", "Gen AI"],
-    frontend: ["HTML", "CSS", "JavaScript", "React"],
-    styling: ["Tailwind CSS", "Bootstrap"],
-    backend: ["Django", "Python"],
-    passion: "Building cool projects & solving real-world problems",
-    motto: "Code • Learn • Improve • Repeat 🚀"
-};
+const Aryan = {
+
+    pronouns: "He/Him",
+
+    code: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "Java"
+    ],
+
+    frontend: [
+        "React",
+        "Tailwind CSS",
+        "Bootstrap"
+    ],
+
+    backend: [
+        "Django"
+    ],
+
+    currentlyLearning: [
+        "Java",
+        "Data Structures",
+        "Generative AI"
+    ],
+
+    passion: "Building impactful projects with beautiful UI",
+
+    funFact: "Every bug teaches something new 🚀"
+}
 ```
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
-</p>
-
-### ⚛️ Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,django,tailwind,bootstrap" />
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,figma" />
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- ☕ Java
-- 📚 Data Structures & Algorithms
-- 🤖 Generative AI
-- ⚡ Backend Development
-- 🚀 Clean Code & System Design
-
----
-
-# 📊 GitHub Analytics
+### Languages
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+### Frameworks & Libraries
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,django,tailwind,bootstrap"/>
+
+</p>
+
+### Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,figma"/>
+
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
+✨ Java Programming
+
+🤖 Generative AI
+
+📚 Data Structures & Algorithms
+
+⚡ Backend Development
+
+🚀 Open Source
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aryanbindal89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbindal89&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -75,17 +117,7 @@ const aryan = {
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+<img src="https://streak-stats.demolab.com?user=aryanbindal89&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -95,48 +127,80 @@ const aryan = {
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanbindal89&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# ⚡ Fun Facts
+# 🏆 GitHub Trophies
 
-✨ I love building projects that solve real problems.
+<p align="center">
 
-💡 Currently exploring the fascinating world of Generative AI.
+<img src="https://github-profile-trophy.vercel.app/?username=aryanbindal89&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
-🎯 Goal: Become a Full Stack Developer & AI Engineer.
+</p>
 
-☕ Coffee + Music + Code = Perfect Day
+---
+
+# ⚡ Coding Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanbindal89&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📌 What I Love
+
+💻 Creating Responsive Websites
+
+⚛️ Developing React Applications
+
+🐍 Building Django Backends
+
+🤖 Exploring Generative AI
+
+☕ Learning Java
+
+🌍 Open Source
+
+🚀 Continuous Learning
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/aryanbindal89">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
+# 💡 Quote
+
+> **"The expert in anything was once a beginner who never stopped learning."**
+
+---
+
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&center=true&vCenter=true&color=00E5FF&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding!;Let's+Build+Something+Amazing!+🚀"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Happy+Coding!;Keep+Learning!;Keep+Building!;See+You+Again!+🚀"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
 </div>
