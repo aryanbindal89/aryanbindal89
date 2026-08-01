@@ -179,11 +179,11 @@ const Aryan = {
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/aryan-agrawal">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:aryanbindal86@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
