@@ -121,28 +121,60 @@ const Aryan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryanbindal89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&border_radius=20"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=aryanbindal89&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=20"
+  />
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbindal89&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=20"/>
+  <img
+    width="41%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbindal89&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=20"
+  />
 
 </div>
 
-<p align="center">
-<img width="80%" src="https://streak-stats.demolab.com?user=aryanbindal89&theme=tokyonight&hide_border=true&border_radius=20"/>
-</p>
+<br>
 
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryanbindal89&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=aryanbindal89&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=7"/>
-</p>
+  <img
+    width="80%"
+    src="https://streak-stats.demolab.com?user=aryanbindal89&theme=tokyonight&hide_border=true&border_radius=20"
+  />
 
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=aryanbindal89&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"/>
-</p>
+</div>
 
+<br>
+
+<div align="center">
+
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aryanbindal89&theme=tokyo-night&hide_border=true&area=true"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    width="100%"
+    src="https://github-profile-trophy.vercel.app/?username=aryanbindal89&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=7"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=aryanbindal89&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"
+  />
+
+</div>
 
 
 
